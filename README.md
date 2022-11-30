@@ -1,0 +1,2 @@
+# Faktoriyel-Hesaplama
+# Faktoriyel-Hesaplama
